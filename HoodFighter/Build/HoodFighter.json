@@ -1,0 +1,16 @@
+{
+"companyName": "B4CYTE",
+"productName": "Hood Fighter",
+"productVersion": "0.1",
+"dataUrl": "HoodFighter.data.unityweb",
+"wasmCodeUrl": "HoodFighter.wasm.code.unityweb",
+"wasmFrameworkUrl": "HoodFighter.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
